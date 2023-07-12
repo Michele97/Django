@@ -1,7 +1,5 @@
 # Django
-Nuovo Progetto
-
-Parte Django
+Nuovo Progetto: Parte Django
 
 Versione Pyhton : 3.11.4
 
